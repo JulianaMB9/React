@@ -1,0 +1,16 @@
+header{
+    width: auto;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1%;
+}
+
+header img{
+    width: 50px;
+    height: auto;
+}
+
+.header strong {
+    padding-top: 6px;
+}
